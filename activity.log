@@ -8,3 +8,4 @@
 2023-01-04T12:54:00: Update requirements.txt with latest dependencies
 2023-01-04T13:28:00: Implement distributed training support
 2023-01-04T11:10:00: Update documentation for ML toolkit
+2023-01-05T14:22:00: Add support for new NLP transformer models
