@@ -51,3 +51,4 @@
 2023-01-27T12:11:00: Update documentation for ML toolkit
 2023-01-30T12:09:00: Add support for new NLP transformer models
 2023-01-31T16:39:00: Clean up codebase and remove deprecated functions
+2023-01-31T10:03:00: Improve API response latency
