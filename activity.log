@@ -163,3 +163,4 @@
 2023-03-13T14:40:00: Refactor model evaluation scripts
 2023-03-14T14:42:00: Add support for new NLP transformer models
 2023-03-15T17:11:00: Experiment with new hyperparameters
+2023-03-15T16:29:00: Add unit tests for core logic
