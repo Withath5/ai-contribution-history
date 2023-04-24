@@ -261,3 +261,4 @@
 2023-04-24T18:11:00: Refactor model evaluation scripts
 2023-04-24T18:39:00: Add unit tests for core logic
 2023-04-24T17:26:00: Add support for new NLP transformer models
+2023-04-24T09:16:00: Research new optimization techniques
