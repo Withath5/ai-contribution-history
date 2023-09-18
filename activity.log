@@ -634,3 +634,4 @@
 2023-09-15T09:41:00: Add support for new NLP transformer models
 2023-09-15T10:17:00: Update documentation for ML toolkit
 2023-09-18T09:04:00: Experiment with new hyperparameters
+2023-09-18T10:19:00: Clean up codebase and remove deprecated functions
