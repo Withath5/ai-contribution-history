@@ -1351,3 +1351,4 @@
 2024-05-31T09:35:00: Add support for new NLP transformer models
 2024-05-31T15:10:00: Refactor model evaluation scripts
 2024-06-03T17:14:00: Update documentation for ML toolkit
+2024-06-03T12:32:00: Clean up codebase and remove deprecated functions
