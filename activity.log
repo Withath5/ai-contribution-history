@@ -2533,3 +2533,4 @@
 2025-08-20T18:23:00: Update requirements.txt with latest dependencies
 2025-08-20T16:26:00: Refactor model evaluation scripts
 2025-08-20T11:32:00: Experiment with new hyperparameters
+2025-08-21T13:11:00: Add unit tests for core logic
